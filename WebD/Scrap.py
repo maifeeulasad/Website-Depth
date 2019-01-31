@@ -35,7 +35,6 @@ Data.mo=mother_link
 
 Data.links=mother
 
-
 Data.get_links_as_list()
 Data.visualize()
 
