@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from WebD import Data
 
-mother_link="https://github.com/maifeeulasad/Desktop-File-Organizer/tree/master/DiskOrganizer"
+mother_link="https://github.com/maifeeulasad/Desktop-File-Organizer/tree/master/DiskOrganizer/Properties"
 
 visited=[]
 
@@ -18,15 +18,18 @@ def go_to(link):
             tem =[]
             for a in soup.find_all('a', href=True):
                 ins=a['href']
-                if ins!='#' or ins!='' or ins.isspace()!=True:
+                if ins!='#' or ins!='' or ins.isspace()!=True or ins!='#start-of-content':
                     if ins.startswith("/") or ins.startswith('?'):
                         ins=mother_link+ins
+                    else:
+
                     tem.insert(0,ins)
                 if ins.startswith(mother_link):
                     go_to(ins)
                     mother[ins] = tem
         except:
-            print("error")
+            pass
+
 
 go_to(mother_link)
 
@@ -34,4 +37,7 @@ Data.mo=mother_link
 
 Data.links=mother
 
-Data.visualize()
+
+Data.get_links_as_list()
+
+
