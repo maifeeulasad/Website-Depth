@@ -2,9 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 class Data:
-    G = nx.Graph()
-
-    plt.interactive(False)
+    G = nx.Graph();
     mo=''
     links={}
     color_list = []
@@ -28,7 +26,6 @@ class Data:
 
     @staticmethod
     def get_links_as_list():
-        plt.ion()
         for x in Data.links:
             tem=Data.links[x]
             for y in tem:
@@ -45,9 +42,10 @@ class Data:
                     Data.e_color.append('green')
                 else:
                     Data.e_color.append('red')
-            Data.update()
 
-        plt.draw()
+
+
+
         return
 
     @staticmethod
@@ -55,12 +53,4 @@ class Data:
         pos = nx.spring_layout(Data.G, scale=0.2)
         nx.draw(Data.G, pos, node_color=Data.color_list, labels=Data.labels, width=0.5, font_size=2)
         plt.axis('off')
-        Data.update()
-        #plt.show()
-
-
-    @staticmethod
-    def update():
-        plt.draw()
-        plt.pause(0.001)
-        plt.clf()
+        plt.show()
