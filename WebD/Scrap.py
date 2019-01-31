@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from WebD import Data
 
-mother_link="https://github.com/maifeeulasad/Desktop-File-Organizer"
+mother_link="https://github.com/maifeeulasad/Desktop-File-Organizer/tree/master/DiskOrganizer"
 
 visited=[]
 
@@ -29,6 +29,8 @@ def go_to(link):
             print("error")
 
 go_to(mother_link)
+
+Data.mo=mother_link
 
 Data.links=mother
 
