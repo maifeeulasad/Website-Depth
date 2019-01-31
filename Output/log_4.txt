@@ -1,0 +1,238 @@
+C:\Users\MUA\AppData\Local\Programs\Python\Python36\python.exe F:/python/website_depth/WebD/Scrap.py
+https://github.com/maifeeulasad-ok
+---inserting #start-of-content
+---inserting https://github.com/
+---inserting https://github.com/maifeeulasad/features
+https://github.com/maifeeulasad/features-ok
+error
+---inserting https://github.com/maifeeulasad/features/code-review/
+https://github.com/maifeeulasad/features/code-review/-ok
+error
+---inserting https://github.com/maifeeulasad/features/project-management/
+https://github.com/maifeeulasad/features/project-management/-ok
+error
+---inserting https://github.com/maifeeulasad/features/integrations
+https://github.com/maifeeulasad/features/integrations-ok
+error
+---inserting https://github.com/maifeeulasad/features/actions
+https://github.com/maifeeulasad/features/actions-ok
+error
+---inserting https://github.com/maifeeulasad/features#team-management
+https://github.com/maifeeulasad/features#team-management-ok
+error
+---inserting https://github.com/maifeeulasad/features#social-coding
+https://github.com/maifeeulasad/features#social-coding-ok
+error
+---inserting https://github.com/maifeeulasad/features#documentation
+https://github.com/maifeeulasad/features#documentation-ok
+error
+---inserting https://github.com/maifeeulasad/features#code-hosting
+https://github.com/maifeeulasad/features#code-hosting-ok
+error
+---inserting https://github.com/maifeeulasad/case-studies
+https://github.com/maifeeulasad/case-studies-ok
+error
+---inserting https://github.com/maifeeulasad/security
+https://github.com/maifeeulasad/security-ok
+error
+---inserting https://github.com/maifeeulasad/enterprise
+https://github.com/maifeeulasad/enterprise-ok
+error
+---inserting https://github.com/maifeeulasad/explore
+https://github.com/maifeeulasad/explore-ok
+error
+---inserting https://github.com/maifeeulasad/topics
+https://github.com/maifeeulasad/topics-ok
+error
+---inserting https://github.com/maifeeulasad/collections
+https://github.com/maifeeulasad/collections-ok
+error
+---inserting https://github.com/maifeeulasad/trending
+https://github.com/maifeeulasad/trending-ok
+error
+---inserting https://lab.github.com/
+---inserting https://opensource.guide
+---inserting https://github.com/maifeeulasad/events
+https://github.com/maifeeulasad/events-ok
+error
+---inserting https://github.community
+---inserting https://education.github.com
+---inserting https://github.com/maifeeulasad/marketplace
+https://github.com/maifeeulasad/marketplace-ok
+error
+---inserting https://github.com/maifeeulasad/pricing
+https://github.com/maifeeulasad/pricing-ok
+error
+---inserting https://github.com/maifeeulasad/pricing#feature-comparison
+https://github.com/maifeeulasad/pricing#feature-comparison-ok
+error
+---inserting https://enterprise.github.com/contact
+---inserting https://github.com/maifeeulasad/nonprofit
+https://github.com/maifeeulasad/nonprofit-ok
+error
+---inserting https://education.github.com
+---inserting 
+---inserting 
+---inserting 
+---inserting https://github.com/maifeeulasad/login?return_to=%2Fmaifeeulasad
+https://github.com/maifeeulasad/login?return_to=%2Fmaifeeulasad-ok
+error
+---inserting https://github.com/maifeeulasad/join
+https://github.com/maifeeulasad/join-ok
+error
+---inserting https://github.com/maifeeulasad/join?source=prompt-users-profile
+https://github.com/maifeeulasad/join?source=prompt-users-profile-ok
+error
+---inserting https://github.com/maifeeulasad/login?return_to=%2Fmaifeeulasad
+https://github.com/maifeeulasad/login?return_to=%2Fmaifeeulasad-ok
+---inserting https://avatars1.githubusercontent.com/u/29339330?s=400&v=4
+---inserting https://github.com/maifeeulasad/contact/report-abuse?report=maifeeulasad+%28user%29
+https://github.com/maifeeulasad/contact/report-abuse?report=maifeeulasad+%28user%29-ok
+error
+---inserting https://github.com/maifeeulasad/TeamZerothBD
+https://github.com/maifeeulasad/TeamZerothBD-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad
+https://github.com/maifeeulasad/maifeeulasad-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=repositories
+https://github.com/maifeeulasad/maifeeulasad?tab=repositories-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=stars
+https://github.com/maifeeulasad/maifeeulasad?tab=stars-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=followers
+https://github.com/maifeeulasad/maifeeulasad?tab=followers-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=following
+https://github.com/maifeeulasad/maifeeulasad?tab=following-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer
+https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer/stargazers
+https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer/stargazers-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker
+https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker/stargazers
+https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker/stargazers-ok
+error
+---inserting https://github.com/maifeeulasad/TeamZerothBD/Mazy-Ball
+https://github.com/maifeeulasad/TeamZerothBD/Mazy-Ball-ok
+error
+---inserting https://github.com/maifeeulasad/TeamZerothBD/Mazy-Ball/stargazers
+https://github.com/maifeeulasad/TeamZerothBD/Mazy-Ball/stargazers-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Word-Puzzle-Solver---Suggestions
+https://github.com/maifeeulasad/maifeeulasad/Word-Puzzle-Solver---Suggestions-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Arduino-Seven-Segment
+https://github.com/maifeeulasad/maifeeulasad/Arduino-Seven-Segment-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Rapid-Roll
+https://github.com/maifeeulasad/maifeeulasad/Rapid-Roll-ok
+error
+---inserting https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&org=TeamZerothBD
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&org=TeamZerothBD-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&org=mlpack
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&org=mlpack-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io
+https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer
+https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer-ok
+---inserting https://github.com/maifeeulasad/TeamZerothBD/Mazy-Ball
+https://github.com/maifeeulasad/TeamZerothBD/Mazy-Ball-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2018-12-01&to=2018-12-31#contribution-created-issue-391040912-2018-12-14
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2018-12-01&to=2018-12-31#contribution-created-issue-391040912-2018-12-14-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2017-06-01&to=2017-06-30#contribution-created-repository-94225032-2017-06-13
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2017-06-01&to=2017-06-30#contribution-created-repository-94225032-2017-06-13-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2017-06-01&to=2017-06-30#contribution-joined-github-29339330-2017-06-10
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2017-06-01&to=2017-06-30#contribution-joined-github-29339330-2017-06-10-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io
+https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer
+https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Google-Image-Downloader
+https://github.com/maifeeulasad/maifeeulasad/Google-Image-Downloader-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Google-Image-Downloader/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/Google-Image-Downloader/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker
+https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Duplicate-File-Finder-Console
+https://github.com/maifeeulasad/maifeeulasad/Duplicate-File-Finder-Console-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Duplicate-File-Finder-Console/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/Duplicate-File-Finder-Console/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Word-Puzzle-Solver---Suggestions
+https://github.com/maifeeulasad/maifeeulasad/Word-Puzzle-Solver---Suggestions-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/Word-Puzzle-Solver---Suggestions/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/Word-Puzzle-Solver---Suggestions/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/MR.-Power
+https://github.com/maifeeulasad/maifeeulasad/MR.-Power-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/MR.-Power/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/MR.-Power/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Rapid-Roll
+https://github.com/maifeeulasad/maifeeulasad/Rapid-Roll-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/Rapid-Roll/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01
+https://github.com/maifeeulasad/maifeeulasad/Rapid-Roll/commits?author=maifeeulasad&since=2019-01-01&until=2019-02-01-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer
+https://github.com/maifeeulasad/maifeeulasad/Desktop-File-Organizer-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/MR.-Power
+https://github.com/maifeeulasad/maifeeulasad/MR.-Power-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker
+https://github.com/maifeeulasad/maifeeulasad/Subtitle-Maker-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io
+https://github.com/maifeeulasad/maifeeulasad/maifeeulasad.github.io-ok
+---inserting https://github.com/maifeeulasad/maifeeulasad/Google-Image-Downloader
+https://github.com/maifeeulasad/maifeeulasad/Google-Image-Downloader-ok
+---inserting https://help.github.com/categories/setting-up-and-managing-your-github-profile
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2019-01-01&to=2019-01-31
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2019-01-01&to=2019-01-31-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2018-12-01&to=2018-12-31
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2018-12-01&to=2018-12-31-ok
+error
+---inserting https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2017-12-01&to=2017-12-31
+https://github.com/maifeeulasad/maifeeulasad?tab=overview&from=2017-12-01&to=2017-12-31-ok
+error
+---inserting https://github.com/site/terms
+---inserting https://github.com/site/privacy
+---inserting https://github.com/security
+---inserting https://githubstatus.com/
+---inserting https://help.github.com
+---inserting https://github.com
+---inserting https://github.com/contact
+---inserting https://github.com/pricing
+---inserting https://developer.github.com
+---inserting https://training.github.com
+---inserting https://github.blog
+---inserting https://github.com/about
+---inserting 
+---inserting 
+
+Process finished with exit code 0
