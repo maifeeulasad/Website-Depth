@@ -1,14 +1,14 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
+from WebD import Data
 
-mother_link="https://github.com/maifeeulasad"
+mother_link="https://github.com/maifeeulasad/Desktop-File-Organizer"
 
 visited=[]
 
 mother={}
 
 def go_to(link):
-    print(link+"-ok")
     if link not in visited and link.startswith(mother_link):
         visited.insert(0,link)
         quote_page = link
@@ -30,17 +30,6 @@ def go_to(link):
 
 go_to(mother_link)
 
+Data.links=mother
 
-'''
-
-for xx in mother:
-    print("************************")
-    print(xx+"-me")
-    print("************************")
-    for yy in mother[xx]:
-        print("---"+yy)
-
-
-
-
-'''
+Data.visualize()
