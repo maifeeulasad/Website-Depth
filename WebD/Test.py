@@ -18,13 +18,13 @@ x=[]
 y=[]
 
 for i in range(1,5):
+    plt.clf()
     x.append(i)
     y.append(i)
     plt.plot(x,y)
     plt.pause(0.1)
     plt.draw()
-    plt.clf()
-
 
 plt.draw()
 plt.show()
+plt.waitforbuttonpress()
