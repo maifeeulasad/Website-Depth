@@ -9,28 +9,35 @@ mother={}
 
 def go_to(link):
     print(link)
-    print("##########################")
-    print(mother)
-    print("##########################")
-    if link not in visited:
+    if link not in visited and link.startswith(mother_link):
+        print("condition satisfied")
+        print("##########################")
+        print(mother)
+        print("##########################")
         visited.insert(0,link)
         quote_page = link
         print("visited sites --- ")
         print(visited)
+        
+        '''
+        visited.insert(0, link)
+        quote_page = link
+        '''
         try:
             page = urlopen(quote_page)
             soup = BeautifulSoup(page, 'html.parser')
             tem =[]
             for a in soup.find_all('a', href=True):
                 ins=a['href']
-                if ins!='#':
+                if ins!='#' or ins!='':
                     if ins.startswith("/") or ins.startswith('?'):
                         ins=mother_link+ins
                     tem.insert(0,ins)
-                    print('---'+ins)
+                    print('---inserting '+ins)
                 if ins.startswith(mother_link):
+                    print(ins)
                     go_to(ins)
-                mother[ins] = tem
+                    mother[ins] = tem
         except:
             print("error")
 
@@ -38,7 +45,6 @@ def go_to(link):
 
 
 go_to(mother_link)
-
 
 
 
@@ -60,6 +66,8 @@ for xx in mother:
     print(xx)
     for yy in mother[xx]:
         print("---"+yy)
+
+
 
 
 
