@@ -18,11 +18,9 @@ def go_to(link):
             tem =[]
             for a in soup.find_all('a', href=True):
                 ins=a['href']
-                if ins!='#' or ins!='' or ins.isspace()!=True or ins!='#start-of-content':
+                if not ins.startswith("#") or not ins.startswith(" "):
                     if ins.startswith("/") or ins.startswith('?'):
                         ins=mother_link+ins
-                    else:
-
                     tem.insert(0,ins)
                 if ins.startswith(mother_link):
                     go_to(ins)
